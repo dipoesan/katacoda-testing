@@ -13,5 +13,5 @@ fi
 
 # This hint message will appear 20+ seconds elapsed after the task began.
 if [ $seconds_sofar -ge 20 ]; then
-  echo "**Hint:** You have to use wget to achieve this *wink*"
+  echo "**Hint:** What do you use to install dependencies on an Ubuntu Machine? *wink*"
 fi

@@ -1,5 +1,5 @@
->>Which of these is the package manager for Debian distributions of Linux?   <<
+>>Which of these is the package manager for RHEL machines?   <<
 [ ] pull
-[*] apt
-[ ] yum
+[ ] apt
+[*] yum
 [ ] get

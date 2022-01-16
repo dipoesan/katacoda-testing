@@ -1,3 +1,3 @@
 #!/bin/bash
 
-test -f /root/darey.io/index.html
+test -fa /root/darey.io/index.html

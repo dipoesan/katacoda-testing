@@ -1,1 +1,1 @@
-Download an `index.html` file of `google.com`..
+Download an `index.html` file of `google.com`.

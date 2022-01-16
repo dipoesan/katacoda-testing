@@ -1,1 +1,1 @@
-Download an `index.html` file of `google.com`.
+In your current directory, there is a folder called `darey.io`. Navigate into it and download the `index.html` file of `darey.io`.

@@ -2,7 +2,7 @@
 (*) Wget
 ( ) Grep
 ( ) Pull
-( ) Cat
+(*) Cat
 
 What does the whatis command do? <<
 ( ) Outputs system details such as hostname

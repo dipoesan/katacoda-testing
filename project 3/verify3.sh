@@ -1,3 +1,3 @@
 #!/bin/bash
 
-test -e /root/index.html
+test -f /root/index.html

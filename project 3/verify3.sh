@@ -1,6 +1,3 @@
 #!/bin/bash
 
-FILE=/root/index.html
-if test -e "$FILE"; then
-    echo "$FILE exists."
-fi
+test -f /root/index.html && echo "$FILE exists."

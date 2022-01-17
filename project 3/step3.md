@@ -1,1 +1,4 @@
-In your current directory, there is a folder called `darey.io`. Navigate into it and download the `index.html` file of the `darey.io` website.
+In your current directory, there is a folder called `darey.io`. Navigate into it and download `http://darey.io/`.
+
+>> What file was downloaded? <<
+=== Inde

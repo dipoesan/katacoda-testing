@@ -1,3 +1,3 @@
 #!/bin/bash
 
-test -r /root/index.html
+[ -d /root/index.html ] && echo "done"

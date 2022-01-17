@@ -1,3 +1,6 @@
 #!/bin/bash
 
-[ -d /root/index.html ] && echo "done"
+FILE=/root/index.htmls
+if test -f "$FILE"; then
+    echo "$FILE exists."
+fi

@@ -1,2 +1,5 @@
->> How would you verfiy that you have successfully created a physical volume? <<
-=== pvs
+>> To add physical volumes to a volume group, what command would you use? <<
+( ) lvcreate
+( ) pvcreate
+(*) vgcreate
+( ) lvmdiskscan

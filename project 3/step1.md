@@ -4,4 +4,5 @@
 [*] scp
 [ ] rdp
 
-Use the manual page on the terminal to read more about the **ssh** command.
+Use the manual page on the terminal to read more about the **ssh** and **scp** commands.
+

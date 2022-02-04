@@ -1,5 +1,4 @@
->> Which of these is the package manager for Debian distributions of Linux? <<
-( ) pull
-(*) apt
-( ) yum
-( ) get
+# Disk Management
+
+>> What command is used for checking for available partitions on your instance? <<
+=== lvmdiskscan

@@ -1,4 +1,5 @@
-# Disk Management
-
->> What command is used for checking for available partitions on your instance? <<
-=== lvmdiskscan
+>> To mark a disk on your instance as a physical volume, what command would you use? <<
+( ) lvcreate
+(*) pvcreate
+( ) vgcreate
+( ) lvmdiskscan

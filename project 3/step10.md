@@ -1,2 +1,5 @@
->> How would you verfiy that you have successfully created a volume group? <<
-=== vgs
+>> To create logical volumes, what command would you use? <<
+( ) pvcreate
+( ) lvmdiskscan
+(*) lvcreate
+( ) vgcreate

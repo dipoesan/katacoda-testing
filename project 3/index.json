@@ -23,7 +23,6 @@
       {
         "title": "Step 4",
         "text": "step4.md",
-        "verfiy": "verify4.sh",
         "hint": "hint4.sh"
       },
       {
@@ -50,14 +49,6 @@
       {
         "title": "Step 10",
         "text": "step10.md"
-      },
-      {
-        "title": "Step 11",
-        "text": "step11.md"
-      },
-      {
-        "title": "Step 12",
-        "text": "step12.md"
       }
     ],
     "intro": {

@@ -1,5 +1,2 @@
->> To create logical volumes, what command would you use? <<
-( ) pvcreate
-( ) lvmdiskscan
-(*) lvcreate
-( ) vgcreate
+>> How would you verfiy that you have successfully created a logical volume? <<
+=== lvs
